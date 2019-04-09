@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Hompepage
 {
-public WebDriver driver;
+public WebDriver driver;//done
 
 @FindBy(name="identifier")
 public WebElement uid;
